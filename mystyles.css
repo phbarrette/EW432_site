@@ -2,3 +2,7 @@ h1 {
     color:blueviolet;
     background-color: burlywood;
 }
+h1.page-title{
+    color:crimson;
+    font-size: 100px;
+}
