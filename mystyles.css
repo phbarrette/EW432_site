@@ -7,6 +7,5 @@ h1.page-title{
     font-size: 40px;
 }
 table{
-    columns: 0px;
-    grid-row: 0px;
+    grid-template: auto;
 }
