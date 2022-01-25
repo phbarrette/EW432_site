@@ -4,5 +4,9 @@ h1 {
 }
 h1.page-title{
     color:crimson;
-    font-size: 100px;
+    font-size: 40px;
+}
+table{
+    columns: 1px;
+    grid-row: 1px;
 }
